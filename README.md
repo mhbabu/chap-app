@@ -1,10 +1,3 @@
-#Instruction
-
-
-#### Requirements:
-- To complete the tasks outlined below, you will need:
-- Proficiency in Laravel, MySQL,Tailwind Css, IntetiaJS and React JS.
-
 #### Project Setup Instructions:
 
 - Clone this repository form this url
